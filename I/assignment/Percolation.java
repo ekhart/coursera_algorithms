@@ -12,17 +12,17 @@ public class Percolation {
 
    // is site (row, col) open?
    public boolean isOpen(int row, int col) {
-
+   		return false;
    }
 
    // is site (row, col) full?
-   public boolean isOpen(int row, int col) {
-
+   public boolean isFull(int row, int col) {
+   		return false;
    }
 
    // does the system percolate?
    public boolean percolates() {
-
+   		return false;
    }
 
    // test client (optional)
